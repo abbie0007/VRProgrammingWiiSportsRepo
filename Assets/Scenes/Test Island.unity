@@ -174,6 +174,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LavaTube
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -241,6 +245,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WhaleWatchers
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -307,6 +315,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CedarTreeTunnel
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -369,6 +381,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DeadEndPoint
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -431,6 +447,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GatewayToWuhu
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -493,6 +513,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnderseaCableInspectors
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -559,6 +583,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedIronBridge
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -621,6 +649,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StarryBeach
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -683,6 +715,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WishingFountain
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -745,6 +781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeginnerArcheryArea
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -807,6 +847,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GolfAreaC
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -869,6 +913,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TennisCourt
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -935,6 +983,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NeedlepointSpire
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -997,6 +1049,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TheQueenPeach
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1146,6 +1202,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: IslandLoopTunnel1
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1212,6 +1272,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TalonRock
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1278,6 +1342,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: OffRoadVehicle
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1340,6 +1408,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PrivateIsland
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1406,6 +1478,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FireworkLaunchZone2
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1468,6 +1544,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CocobaHotel
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1530,6 +1610,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ToppledMonument
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1596,6 +1680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HeartbreakPeak
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1658,6 +1746,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SwayingBridge
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1720,6 +1812,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PoolPatio
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1782,6 +1878,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TheCandle
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1981,6 +2081,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LavaMonument
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2043,6 +2147,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MountainHikers
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2105,6 +2213,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GolfAreaA
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2167,6 +2279,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WedgeIslandMarina
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2229,6 +2345,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WindOrchard
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2295,6 +2415,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MountainMonument
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2304,6 +2428,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 1490836568462964578, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
   m_PrefabInstance: {fileID: 831615675}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &841957985 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+  m_PrefabInstance: {fileID: 1051006421}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &953784495
 PrefabInstance:
@@ -2357,6 +2486,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MakaWuhu
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2419,6 +2552,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TheWhaleShark
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2485,6 +2622,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RunnersCircle
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2551,6 +2692,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CrabRock
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2617,6 +2762,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SerpentsMouth
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2791,6 +2940,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MysteriousRuins
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2857,6 +3010,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EntranceMysteriousRuins
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2883,13 +3040,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Origin (XR Rig)
       objectReference: {fileID: 0}
+    - target: {fileID: 1717954561962503725, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1734.2338
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 21.7
+      value: 124.4
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3051,6 +3212,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PalmBoulevard
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3117,6 +3282,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BrokenClockTower
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3179,6 +3348,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DivingSpot
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3245,6 +3418,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CabanaLagoon
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3307,6 +3484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PowerCruisingArea
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3373,6 +3554,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BeginnerWakeboardingArea
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3435,6 +3620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ForestMonument
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3615,6 +3804,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SundownPoint
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3686,6 +3879,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BowlingAlley
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3748,6 +3945,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DucklingLake
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3814,6 +4015,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SummerstoneFalls
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3880,6 +4085,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StillwaterGrotto
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3942,6 +4151,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SummerstoneCastle
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4004,6 +4217,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EvergreenGrove
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4066,6 +4283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CamelRock
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4128,6 +4349,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SportfishingSpot
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4190,6 +4415,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FrisbeeDogPark
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4252,6 +4481,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GolfAreaB
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4318,6 +4551,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: IslandLoopTunnel2
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4384,6 +4621,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DesertedIsland
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4446,6 +4687,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SugarsandBeach
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4512,6 +4757,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SilkSands
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4578,6 +4827,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WeatheredMonument
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4640,6 +4893,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Footbridge
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4706,6 +4963,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HilltopOverlook
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4772,6 +5033,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StarboardHarbor
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4834,6 +5099,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasketballCourt
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4964,6 +5233,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CliffsideRuins
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5026,6 +5299,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PiratesEye
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5088,6 +5365,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LoneCedar
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5154,6 +5435,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HeartOfMakaWuhu
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5216,6 +5501,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FireworkLaunchZone1
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5278,6 +5567,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TheNineteenthHotel
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5344,6 +5637,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SeaSerpentCavern
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5406,6 +5703,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SwordplayColosseum
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5468,6 +5769,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HillsideCabins
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5530,6 +5835,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SweetBeach
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5600,6 +5909,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BarnacleArch
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5662,6 +5975,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ExtremeCanoeist
       objectReference: {fileID: 0}
+    - target: {fileID: 6481763943631721731, guid: 86b9822e4de7c1b42995c4df02099d86, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 841957985}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

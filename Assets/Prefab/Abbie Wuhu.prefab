@@ -154,7 +154,7 @@ PrefabInstance:
     - target: {fileID: -8669923639597784123, guid: 1986dab69e0c48045b6bde28e8561fa8, type: 3}
       propertyPath: m_AdditionalVertexStreams
       value: 
-      objectReference: {fileID: 4537209750999131208, guid: 1986dab69e0c48045b6bde28e8561fa8, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: -8669923639597784123, guid: 1986dab69e0c48045b6bde28e8561fa8, type: 3}
       propertyPath: m_SelectedEditorRenderState
       value: 2
@@ -297,7 +297,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 1986dab69e0c48045b6bde28e8561fa8, type: 3}
       propertyPath: m_Name
-      value: Final Wuhu Island 1
+      value: Abbie Wuhu
       objectReference: {fileID: 0}
     - target: {fileID: 1179156336323779015, guid: 1986dab69e0c48045b6bde28e8561fa8, type: 3}
       propertyPath: m_LocalPosition.z

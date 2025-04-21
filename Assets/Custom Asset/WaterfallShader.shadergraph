@@ -290,7 +290,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"10f6f6aed88ea41a88da73578db9c517\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"f60834e2087dfa049978314895815085\",\"type\":3}}",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -382,7 +382,7 @@
     "m_ShaderOutputName": "B",
     "m_StageCapability": 3,
     "m_Value": {
-        "e00": 0.004999999888241291,
+        "e00": 0.0024999999441206457,
         "e01": 2.0,
         "e02": 2.0,
         "e03": 2.0,
@@ -1256,7 +1256,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"6c0f0b9dfde09754f93aafdeb9f26581\",\"type\":3}}",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"cfe97512b61a63841bb209fb13230141\",\"type\":3}}",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -1479,7 +1479,7 @@
     "m_ShaderOutputName": "B",
     "m_StageCapability": 3,
     "m_Value": {
-        "e00": 0.009999999776482582,
+        "e00": 0.004999999888241291,
         "e01": 2.0,
         "e02": 2.0,
         "e03": 2.0,
